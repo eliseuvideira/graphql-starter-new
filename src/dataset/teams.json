@@ -1,0 +1,82 @@
+[
+  {
+    "teamId": "ATL",
+    "name": "Atlanta Reign"
+  },
+  {
+    "teamId": "BOS",
+    "name": "Boston Uprising"
+  },
+  {
+    "teamId": "CDH",
+    "name": "Chengdu Hunters"
+  },
+  {
+    "teamId": "DAL",
+    "name": "Dallas Fuel"
+  },
+  {
+    "teamId": "FLA",
+    "name": "Florida Mayhem"
+  },
+  {
+    "teamId": "GZC",
+    "name": "Guangzhou Charge"
+  },
+  {
+    "teamId": "HZS",
+    "name": "Hangzhou Spark"
+  },
+  {
+    "teamId": "HOU",
+    "name": "Houston Outlaws"
+  },
+  {
+    "teamId": "LDN",
+    "name": "London Spitfire"
+  },
+  {
+    "teamId": "GLA",
+    "name": "Los Angeles Gladiators"
+  },
+  {
+    "teamId": "VAL",
+    "name": "Los Angeles Valiant"
+  },
+  {
+    "teamId": "NYE",
+    "name": "New York Excelsior"
+  },
+  {
+    "teamId": "PAR",
+    "name": "Paris Eternal"
+  },
+  {
+    "teamId": "PHI",
+    "name": "Philadelphia Fusion"
+  },
+  {
+    "teamId": "SFS",
+    "name": "San Francisco Shock"
+  },
+  {
+    "teamId": "SEO",
+    "name": "Seoul Dynasty"
+  },
+  {
+    "teamId": "SHD",
+    "name": "Shanghai Dragons"
+  },
+  {
+    "teamId": "TOR",
+    "name": "Toronto Defiant"
+  },
+  {
+    "teamId": "VAN",
+    "name": "Vancouver Titans"
+  },
+  {
+    "teamId": "WAS",
+    "name": "Washington Justice"
+  }
+]
