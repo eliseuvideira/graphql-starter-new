@@ -1,975 +1,975 @@
 [
   {
-    "userId": "Kellex",
+    "playerId": "Kellex",
     "name": "Kristian Keller",
     "teamId": "LDN",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "eqo",
+    "playerId": "eqo",
     "name": "Josue  Corona",
     "teamId": "PHI",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "Mano",
+    "playerId": "Mano",
     "name": "Dong-Gyu Kim",
     "teamId": "PHI",
     "role": "Tank",
     "topHero": "Winston"
   },
   {
-    "userId": "Logix",
+    "playerId": "Logix",
     "name": "Andreas Berghmans",
     "teamId": "TOR",
     "role": "Damage",
     "topHero": "Tracer"
   },
   {
-    "userId": "SAEBYEOLBE",
+    "playerId": "SAEBYEOLBE",
     "name": "Jong-Ryeol Park",
     "teamId": "SEO",
     "role": "Damage",
     "topHero": "Tracer"
   },
   {
-    "userId": "tobi",
+    "playerId": "tobi",
     "name": "Jinmo Yang",
     "teamId": "PHI",
     "role": "Support",
     "topHero": "Lúcio"
   },
   {
-    "userId": "Jake",
+    "playerId": "Jake",
     "name": "Jake Lyon",
     "teamId": "HOU",
     "role": "Support",
     "topHero": "Soldier: 76"
   },
   {
-    "userId": "Roolf",
+    "playerId": "Roolf",
     "name": "Randal Stark",
     "teamId": "VAN",
     "role": "Support"
   },
   {
-    "userId": "Danteh",
+    "playerId": "Danteh",
     "name": "Dante Cruz",
     "teamId": "HOU",
     "role": "Damage",
     "topHero": "Tracer"
   },
   {
-    "userId": "super",
+    "playerId": "super",
     "name": "Matthew DeLisi",
     "teamId": "SFS",
     "role": "Tank",
     "topHero": "Pharah"
   },
   {
-    "userId": "Kalios",
+    "playerId": "Kalios",
     "name": "Woo-yeol Shin",
     "teamId": "NYE",
     "role": "Tank",
     "topHero": "Zarya"
   },
   {
-    "userId": "carpe",
+    "playerId": "carpe",
     "name": "JaeHyeok Lee",
     "teamId": "PHI",
     "role": "Damage",
     "topHero": "McCree"
   },
   {
-    "userId": "LiNkzr",
+    "playerId": "LiNkzr",
     "name": "Jiri Masalin",
     "teamId": "VAN",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "Fleta",
+    "playerId": "Fleta",
     "name": "ByungSun Kim",
     "teamId": "SHD",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "KariV",
+    "playerId": "KariV",
     "name": "YoungSeo Bak",
     "teamId": "GZC",
     "role": "Support",
     "topHero": "Zenyatta"
   },
   {
-    "userId": "Fate",
+    "playerId": "Fate",
     "name": "Pan Seung Koo",
     "teamId": "SHD",
     "role": "Tank",
     "topHero": "Winston"
   },
   {
-    "userId": "SPACE",
+    "playerId": "SPACE",
     "name": "Indy Halpern",
     "teamId": "GLA",
     "role": "Tank",
     "topHero": "Zarya"
   },
   {
-    "userId": "Hydration",
+    "playerId": "Hydration",
     "name": "João Pedro Goes Telles",
     "teamId": "HOU",
     "role": "Tank",
     "topHero": "Pharah"
   },
   {
-    "userId": "Pine",
+    "playerId": "Pine",
     "name": "Do Hyeon Kim",
     "teamId": "DAL",
     "role": "Damage",
     "topHero": "Sombra"
   },
   {
-    "userId": "JJonak",
+    "playerId": "JJonak",
     "name": "Seong Hyun Bang",
     "teamId": "NYE",
     "role": "Support",
     "topHero": "Zenyatta"
   },
   {
-    "userId": "Birdring",
+    "playerId": "Birdring",
     "name": "Ji Hyeok Kim",
     "teamId": "GLA",
     "role": "Damage",
     "topHero": "Tracer"
   },
   {
-    "userId": "Rascal",
+    "playerId": "Rascal",
     "name": "DongJun Kim",
     "teamId": "PHI",
     "role": "Damage",
     "topHero": "Pharah"
   },
   {
-    "userId": "Fury",
+    "playerId": "Fury",
     "name": "Junho Kim",
     "teamId": "WAS",
     "role": "Tank",
     "topHero": "D.Va"
   },
   {
-    "userId": "Profit",
+    "playerId": "Profit",
     "name": "Junyoung Park",
     "teamId": "SEO",
     "role": "Damage",
     "topHero": "Tracer"
   },
   {
-    "userId": "Closer",
+    "playerId": "Closer",
     "name": "Wonsik Jung",
     "teamId": "WAS",
     "role": "Support",
     "topHero": "Lúcio"
   },
   {
-    "userId": "Gesture",
+    "playerId": "Gesture",
     "name": "Jaehui Hong",
     "teamId": "SEO",
     "role": "Tank",
     "topHero": "Winston"
   },
   {
-    "userId": "Poko",
+    "playerId": "Poko",
     "name": "Gael Gouzerch",
     "teamId": "PHI",
     "role": "Tank",
     "topHero": "Zarya"
   },
   {
-    "userId": "SADO",
+    "playerId": "SADO",
     "name": "Sumin Kim",
     "teamId": "TOR",
     "role": "Tank",
     "topHero": "Winston"
   },
   {
-    "userId": "HOTBA",
+    "playerId": "HOTBA",
     "name": "Hong-Jun Choi",
     "teamId": "PHI",
     "role": "Tank",
     "topHero": "Zarya"
   },
   {
-    "userId": "Anamo",
+    "playerId": "Anamo",
     "name": "Tae-Sung Jung",
     "teamId": "SEO",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "FEARLESS",
+    "playerId": "FEARLESS",
     "name": "Euiseok Lee",
     "teamId": "DAL",
     "role": "Tank",
     "topHero": "Reinhardt"
   },
   {
-    "userId": "ColourHex",
+    "playerId": "ColourHex",
     "name": "Kelsey Birse",
     "teamId": "BOS",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "nero",
+    "playerId": "nero",
     "name": "Charlie Zwarg",
     "teamId": "SFS",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "Dalton",
+    "playerId": "Dalton",
     "name": "Dalton Bennyhoff",
     "teamId": "VAN",
     "role": "Damage"
   },
   {
-    "userId": "Architect",
+    "playerId": "Architect",
     "name": "Minho Park",
     "teamId": "HZS",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "moth",
+    "playerId": "moth",
     "name": "Grant Espe",
     "teamId": "GLA",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "OGE",
+    "playerId": "OGE",
     "name": "Minseok Son",
     "teamId": "FLA",
     "role": "Tank",
     "topHero": "Reinhardt"
   },
   {
-    "userId": "Void",
+    "playerId": "Void",
     "name": "Jun Woo Kang",
     "teamId": "SHD",
     "role": "Tank",
     "topHero": "D.Va"
   },
   {
-    "userId": "Choihyobin",
+    "playerId": "Choihyobin",
     "name": "Hyobin Choi",
     "teamId": "SFS",
     "role": "Tank",
     "topHero": "D.Va"
   },
   {
-    "userId": "KSF",
+    "playerId": "KSF",
     "name": "Kyle Frandanisa",
     "teamId": "HOU",
     "role": "Damage",
     "topHero": "Genji"
   },
   {
-    "userId": "IZaYaKI",
+    "playerId": "IZaYaKI",
     "name": "Min chul Kim",
     "teamId": "SHD",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "smurf",
+    "playerId": "smurf",
     "name": "Myeong Hwan Yoo",
     "teamId": "SFS",
     "role": "Tank",
     "topHero": "Winston"
   },
   {
-    "userId": "Jecse",
+    "playerId": "Jecse",
     "name": "SeungSoo Lee",
     "teamId": "DAL",
     "role": "Support"
   },
   {
-    "userId": "Decay",
+    "playerId": "Decay",
     "name": " Gui-woon Jang",
     "teamId": "WAS",
     "role": "Damage"
   },
   {
-    "userId": "blase",
+    "playerId": "blase",
     "name": "Jeffrey Tsang",
     "teamId": "LDN",
     "role": "Damage",
     "topHero": "Doomfist"
   },
   {
-    "userId": "Fusions",
+    "playerId": "Fusions",
     "name": "Cameron Bosworth",
     "teamId": "BOS",
     "role": "Tank",
     "topHero": "Orisa"
   },
   {
-    "userId": "Marve1",
+    "playerId": "Marve1",
     "name": "Min Seo Hwang",
     "teamId": "SEO",
     "role": "Tank"
   },
   {
-    "userId": "Michelle",
+    "playerId": "Michelle",
     "name": "Minhyuk Choi",
     "teamId": "TOR",
     "role": "Tank"
   },
   {
-    "userId": "Masaa",
+    "playerId": "Masaa",
     "name": "Petja Kantanen",
     "teamId": "ATL",
     "role": "Support",
     "topHero": "Lúcio"
   },
   {
-    "userId": "Ripa",
+    "playerId": "Ripa",
     "name": "Riku Toivanen",
     "teamId": "LDN",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "Viol2t",
+    "playerId": "Viol2t",
     "name": "Minki Park",
     "teamId": "SFS",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "bqb",
+    "playerId": "bqb",
     "name": "Sangbeom Lee",
     "teamId": "FLA",
     "role": "Damage"
   },
   {
-    "userId": "Gator",
+    "playerId": "Gator",
     "name": "Blake Scott",
     "teamId": "ATL",
     "role": "Tank",
     "topHero": "Reinhardt"
   },
   {
-    "userId": "iDK",
+    "playerId": "iDK",
     "name": "Ho jin Park",
     "teamId": "HZS",
     "role": "Support"
   },
   {
-    "userId": "Krystal",
+    "playerId": "Krystal",
     "name": "Shilong Cai",
     "teamId": "VAL",
     "role": "Damage"
   },
   {
-    "userId": "Eileen",
+    "playerId": "Eileen",
     "name": "Yiliang Ou",
     "teamId": "GZC",
     "role": "Damage",
     "topHero": "Brigitte"
   },
   {
-    "userId": "Happy",
+    "playerId": "Happy",
     "name": "Jeong Woo Lee",
     "teamId": "HOU",
     "role": "Damage",
     "topHero": "Widowmaker"
   },
   {
-    "userId": "Rio",
+    "playerId": "Rio",
     "name": "Seungpyo Oh",
     "teamId": "GZC",
     "role": "Tank",
     "topHero": "Orisa"
   },
   {
-    "userId": "shu",
+    "playerId": "shu",
     "name": "Jin Seo Kim",
     "teamId": "GLA",
     "role": "Support",
     "topHero": "Ana"
   },
   {
-    "userId": "SeoMinSoo",
+    "playerId": "SeoMinSoo",
     "name": "MinSoo Seo",
     "teamId": "HZS",
     "role": "Damage",
     "topHero": "Hanzo"
   },
   {
-    "userId": "Xzi",
+    "playerId": "Xzi",
     "name": "Gihyo Jung",
     "teamId": "DAL",
     "role": "Damage"
   },
   {
-    "userId": "Hanbin",
+    "playerId": "Hanbin",
     "name": "Hanbeen Choi",
     "teamId": "DAL",
     "role": "Tank"
   },
   {
-    "userId": "Jerry",
+    "playerId": "Jerry",
     "name": "TaeHee Min",
     "teamId": "WAS",
     "role": "Damage"
   },
   {
-    "userId": "BiaNcA",
+    "playerId": "BiaNcA",
     "name": "Dong Wook Kim",
     "teamId": "NYE",
     "role": "Tank"
   },
   {
-    "userId": "Lastro",
+    "playerId": "Lastro",
     "name": "Jeongwon Moon",
     "teamId": "TOR",
     "role": "Support"
   },
   {
-    "userId": "Glister",
+    "playerId": "Glister",
     "name": "Gilseong Lim",
     "teamId": "SFS",
     "role": "Damage"
   },
   {
-    "userId": "DREAMER",
+    "playerId": "DREAMER",
     "name": "Sanglok Song",
     "teamId": "HOU",
     "role": "Tank"
   },
   {
-    "userId": "Beast",
+    "playerId": "Beast",
     "name": "Adam Denton",
     "teamId": "TOR",
     "role": "Tank"
   },
   {
-    "userId": "Alarm",
+    "playerId": "Alarm",
     "name": "KyeongBo Kim",
     "teamId": "PHI",
     "role": "Support"
   },
   {
-    "userId": "BERNAR",
+    "playerId": "BERNAR",
     "name": "Sewon Shin",
     "teamId": "HZS",
     "role": "Tank"
   },
   {
-    "userId": "Cr0ng",
+    "playerId": "Cr0ng",
     "name": "Gicheol Nam",
     "teamId": "GZC",
     "role": "Tank"
   },
   {
-    "userId": "Doha",
+    "playerId": "Doha",
     "name": "Dongha Kim",
     "teamId": "DAL",
     "role": "Damage"
   },
   {
-    "userId": "wya",
+    "playerId": "wya",
     "name": "Haomiao Qi",
     "teamId": "VAL",
     "role": "Support"
   },
   {
-    "userId": "Creative",
+    "playerId": "Creative",
     "name": "Youngwan Kim",
     "teamId": "SEO",
     "role": "Support"
   },
   {
-    "userId": "Hawk",
+    "playerId": "Hawk",
     "name": "Xander Domecq",
     "teamId": "ATL",
     "role": "Tank"
   },
   {
-    "userId": "Mandu",
+    "playerId": "Mandu",
     "name": "Chanhee Kim",
     "teamId": "GZC",
     "role": "Support"
   },
   {
-    "userId": "MirroR",
+    "playerId": "MirroR",
     "name": "Gia Huy Trịnh",
     "teamId": "GLA",
     "role": "Damage"
   },
   {
-    "userId": "LeeJaeGon",
+    "playerId": "LeeJaeGon",
     "name": "Jae Gon  Lee",
     "teamId": "SHD",
     "role": "Support"
   },
   {
-    "userId": "LIP",
+    "playerId": "LIP",
     "name": "Jae Won Lee",
     "teamId": "SHD",
     "role": "Damage"
   },
   {
-    "userId": "Stand1",
+    "playerId": "Stand1",
     "name": "Ji Won Seo",
     "teamId": "BOS",
     "role": "Tank"
   },
   {
-    "userId": "Edison",
+    "playerId": "Edison",
     "name": "Taehun Kim",
     "teamId": "ATL",
     "role": "Damage"
   },
   {
-    "userId": "GangNamJin",
+    "playerId": "GangNamJin",
     "name": "Namjin Kang",
     "teamId": "FLA",
     "role": "Support"
   },
   {
-    "userId": "Yaki",
+    "playerId": "Yaki",
     "name": "Jun Ki Kim",
     "teamId": "FLA",
     "role": "Damage"
   },
   {
-    "userId": "WhoRu",
+    "playerId": "WhoRu",
     "name": "Seung jun Lee",
     "teamId": "SHD",
     "role": "Damage"
   },
   {
-    "userId": "Heesu",
+    "playerId": "Heesu",
     "name": "Huisu Jeong",
     "teamId": "TOR",
     "role": "Damage"
   },
   {
-    "userId": "Kai",
+    "playerId": "Kai",
     "name": "Kai Collins",
     "teamId": "ATL",
     "role": "Damage"
   },
   {
-    "userId": "Jihun",
+    "playerId": "Jihun",
     "name": "Jihun Kim",
     "teamId": "GZC",
     "role": "Tank"
   },
   {
-    "userId": "ANS",
+    "playerId": "ANS",
     "name": "Seonchang Lee",
     "teamId": "SFS",
     "role": "Damage"
   },
   {
-    "userId": "FDGod",
+    "playerId": "FDGod",
     "name": "Brice Monscavoir",
     "teamId": "SFS",
     "role": "Support"
   },
   {
-    "userId": "Leave",
+    "playerId": "Leave",
     "name": "Xin Huang",
     "teamId": "CDH",
     "role": "Damage"
   },
   {
-    "userId": "M1ka",
+    "playerId": "M1ka",
     "name": "Jiming Liu",
     "teamId": "HZS",
     "role": "Support"
   },
   {
-    "userId": "Fire",
+    "playerId": "Fire",
     "name": "Anthony King",
     "teamId": "VAN",
     "role": "Support"
   },
   {
-    "userId": "Molly",
+    "playerId": "Molly",
     "name": "Chengzhi He",
     "teamId": "SHD",
     "role": "Support"
   },
   {
-    "userId": "ColdesT",
+    "playerId": "ColdesT",
     "name": "Xiaodong Tong",
     "teamId": "HZS",
     "role": "Support"
   },
   {
-    "userId": "Crimzo",
+    "playerId": "Crimzo",
     "name": "William Hernandez",
     "teamId": "HOU",
     "role": "Support"
   },
   {
-    "userId": "Fielder",
+    "playerId": "Fielder",
     "name": "Jun Kwon",
     "teamId": "DAL",
     "role": "Support"
   },
   {
-    "userId": "punk",
+    "playerId": "punk",
     "name": "Leyton Gilchrist",
     "teamId": "BOS",
     "role": "Tank"
   },
   {
-    "userId": "ShRedLock",
+    "playerId": "ShRedLock",
     "name": "Abtin Shirvani",
     "teamId": "VAN",
     "role": "Tank"
   },
   {
-    "userId": "Tsuna",
+    "playerId": "Tsuna",
     "name": "Samir Ikram",
     "teamId": "PAR",
     "role": "Damage"
   },
   {
-    "userId": "sHockWave",
+    "playerId": "sHockWave",
     "name": "Niclas Smidt Jensen",
     "teamId": "PHI",
     "role": "Damage"
   },
   {
-    "userId": "Onigod",
+    "playerId": "Onigod",
     "name": "Stefan Fiskerstrand",
     "teamId": "PAR",
     "role": "Damage"
   },
   {
-    "userId": "kevster",
+    "playerId": "kevster",
     "name": "Kevin Persson",
     "teamId": "GLA",
     "role": "Damage"
   },
   {
-    "userId": "ta1yo",
+    "playerId": "ta1yo",
     "name": "Sean Taiyo Henderson",
     "teamId": "SFS",
     "role": "Damage"
   },
   {
-    "userId": "ir1s",
+    "playerId": "ir1s",
     "name": "Seunghyeon Kim",
     "teamId": "ATL",
     "role": "Support"
   },
   {
-    "userId": "ToYou",
+    "playerId": "ToYou",
     "name": "Hyeon Woo Lim",
     "teamId": "SEO",
     "role": "Tank"
   },
   {
-    "userId": "MYKaylee",
+    "playerId": "MYKaylee",
     "name": "Zijie Zou",
     "teamId": "GZC",
     "role": "Damage"
   },
   {
-    "userId": "Friday",
+    "playerId": "Friday",
     "name": "MinJae Cho",
     "teamId": "NYE",
     "role": "Support"
   },
   {
-    "userId": "Joobi",
+    "playerId": "Joobi",
     "name": "Enrique Triana",
     "teamId": "HOU",
     "role": "Support"
   },
   {
-    "userId": "Piggy",
+    "playerId": "Piggy",
     "name": "Min June Shin",
     "teamId": "HOU",
     "role": "Tank"
   },
   {
-    "userId": "Molf1g",
+    "playerId": "Molf1g",
     "name": "Mikkel Djernes",
     "teamId": "LDN",
     "role": "Tank"
   },
   {
-    "userId": "Hadi",
+    "playerId": "Hadi",
     "name": "Hadi Bleinagel",
     "teamId": "LDN",
     "role": "Tank"
   },
   {
-    "userId": "SparkR",
+    "playerId": "SparkR",
     "name": "William Andersson",
     "teamId": "LDN",
     "role": "Damage"
   },
   {
-    "userId": "PELICAN",
+    "playerId": "PELICAN",
     "name": "Sehyun Oh",
     "teamId": "ATL",
     "role": "Damage"
   },
   {
-    "userId": "Jimmy",
+    "playerId": "Jimmy",
     "name": "Yujia Lei",
     "teamId": "CDH",
     "role": "Damage"
   },
   {
-    "userId": "Kaan",
+    "playerId": "Kaan",
     "name": "Emir Kaan Okumus",
     "teamId": "PAR",
     "role": "Support"
   },
   {
-    "userId": "ChoiSehwan",
+    "playerId": "ChoiSehwan",
     "name": "Sehwan Choi",
     "teamId": "GZC",
     "role": "Damage"
   },
   {
-    "userId": "Farway1987",
+    "playerId": "Farway1987",
     "name": "Jiale Cao",
     "teamId": "CDH",
     "role": "Support"
   },
   {
-    "userId": "Naga",
+    "playerId": "Naga",
     "name": "Nikolai Dereli",
     "teamId": "PAR",
     "role": "Damage"
   },
   {
-    "userId": "Nisha",
+    "playerId": "Nisha",
     "name": "Li Tan",
     "teamId": "CDH",
     "role": "Support"
   },
   {
-    "userId": "MAG",
+    "playerId": "MAG",
     "name": "Taeseong Kim",
     "teamId": "WAS",
     "role": "Tank"
   },
   {
-    "userId": "ga9A",
+    "playerId": "ga9A",
     "name": "Jiaxin Qiu",
     "teamId": "CDH",
     "role": "Tank"
   },
   {
-    "userId": "Daan",
+    "playerId": "Daan",
     "name": "Daniel Scheltema",
     "teamId": "PAR",
     "role": "Tank"
   },
   {
-    "userId": "Flora",
+    "playerId": "Flora",
     "name": "Youngwoo Yim",
     "teamId": "NYE",
     "role": "Damage"
   },
   {
-    "userId": "FEATH5R",
+    "playerId": "FEATH5R",
     "name": "Seungwoo Lee",
     "teamId": "NYE",
     "role": "Damage"
   },
   {
-    "userId": "ANSOONJAE",
+    "playerId": "ANSOONJAE",
     "name": "Soonjae An",
     "teamId": "TOR",
     "role": "Support"
   },
   {
-    "userId": "Na1st",
+    "playerId": "Na1st",
     "name": "Hosung Lee",
     "teamId": "TOR",
     "role": "Damage"
   },
   {
-    "userId": "skewed",
+    "playerId": "skewed",
     "name": "Minsuk Kim",
     "teamId": "GLA",
     "role": "Support"
   },
   {
-    "userId": "Gwangboong",
+    "playerId": "Gwangboong",
     "name": "KwangWon Kim",
     "teamId": "NYE",
     "role": "Damage"
   },
   {
-    "userId": "Aztac",
+    "playerId": "Aztac",
     "name": "Jeongsoo Park",
     "teamId": "TOR",
     "role": "Support"
   },
   {
-    "userId": "Faith",
+    "playerId": "Faith",
     "name": "Hong Gyu Kim",
     "teamId": "BOS",
     "role": "Support"
   },
   {
-    "userId": "Teru",
+    "playerId": "Teru",
     "name": "Minki Kim",
     "teamId": "VAN",
     "role": "Damage"
   },
   {
-    "userId": "Valentine",
+    "playerId": "Valentine",
     "name": "Byeong Ju Kim",
     "teamId": "BOS",
     "role": "Damage"
   },
   {
-    "userId": "JJANGGU",
+    "playerId": "JJANGGU",
     "name": "Myeongheum Cho",
     "teamId": "HOU",
     "role": "Tank"
   },
   {
-    "userId": "Hybrid",
+    "playerId": "Hybrid",
     "name": "Dom Grove",
     "teamId": "LDN",
     "role": "Damage"
   },
   {
-    "userId": "CHECKMATE",
+    "playerId": "CHECKMATE",
     "name": "Seunghoon Baek",
     "teamId": "FLA",
     "role": "Tank"
   },
   {
-    "userId": "MoLanran",
+    "playerId": "MoLanran",
     "name": "Yang Liao",
     "teamId": "VAL",
     "role": "Damage"
   },
   {
-    "userId": "NvM",
+    "playerId": "NvM",
     "name": "Yelin Wen",
     "teamId": "VAL",
     "role": "Tank"
   },
   {
-    "userId": "Silver3",
+    "playerId": "Silver3",
     "name": "Haibo Han",
     "teamId": "VAL",
     "role": "Tank"
   },
   {
-    "userId": "Highbee",
+    "playerId": "Highbee",
     "name": "Zening Zhang",
     "teamId": "VAL",
     "role": "Support"
   },
   {
-    "userId": "ShowCheng",
+    "playerId": "ShowCheng",
     "name": "Yu Cheng",
     "teamId": "VAL",
     "role": "Tank"
   },
   {
-    "userId": "MuZe",
+    "playerId": "MuZe",
     "name": "Young-hun Kim",
     "teamId": "GLA",
     "role": "Tank"
   },
   {
-    "userId": "Mmonk",
+    "playerId": "Mmonk",
     "name": "Xiang Zhou",
     "teamId": "CDH",
     "role": "Support"
   },
   {
-    "userId": "LIGE",
+    "playerId": "LIGE",
     "name": "Chengjie Jia",
     "teamId": "HZS",
     "role": "Tank"
   },
   {
-    "userId": "GaeBullSsi",
+    "playerId": "GaeBullSsi",
     "name": "Yeong Sun Yun",
     "teamId": "BOS",
     "role": "Tank"
   },
   {
-    "userId": "MCD",
+    "playerId": "MCD",
     "name": "Jeongho Lee",
     "teamId": "HZS",
     "role": "Support"
   },
   {
-    "userId": "shy",
+    "playerId": "shy",
     "name": "Zheng Yangjie",
     "teamId": "HZS",
     "role": "Damage"
   },
   {
-    "userId": "Takoyaki",
+    "playerId": "Takoyaki",
     "name": "Yeonghyeon Lee",
     "teamId": "HZS",
     "role": "Tank"
   },
   {
-    "userId": "Assassin",
+    "playerId": "Assassin",
     "name": "Sungwon Kim",
     "teamId": "WAS",
     "role": "Damage"
   },
   {
-    "userId": "dridro",
+    "playerId": "dridro",
     "name": "Arthur Szanto",
     "teamId": "PAR",
     "role": "Support"
   },
   {
-    "userId": "ChangSik",
+    "playerId": "ChangSik",
     "name": "Chang-sik Moon",
     "teamId": "VAN",
     "role": "Tank"
   },
   {
-    "userId": "Aspire",
+    "playerId": "Aspire",
     "name": "Luka Rolovic",
     "teamId": "TOR",
     "role": "Damage"
   },
   {
-    "userId": "Vestola",
+    "playerId": "Vestola",
     "name": "Ilari Vestola",
     "teamId": "PAR",
     "role": "Tank"
   },
   {
-    "userId": "TaroCook1e",
+    "playerId": "TaroCook1e",
     "name": "Yunlong Zhong",
     "teamId": "CDH",
     "role": "Damage"
   },
   {
-    "userId": "Develop",
+    "playerId": "Develop",
     "name": "Rak Hun",
     "teamId": "SHD",
     "role": "Damage"
